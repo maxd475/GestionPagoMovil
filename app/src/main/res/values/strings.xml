@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">GestionPagos</string>
+    <string name="txttitulo">Control de Pago de Empleados</string>
+    <string name="txtempleado">ingresa nombre de empleado</string>
+    <string name="txthoras">ingrese horas</string>
+    <string name="txtcosto">ingrese costo</string>
+    <string name="txtenviar">CALCULAR</string>
+    <string name="txtimporte">0.00</string>
+</resources>
